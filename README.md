@@ -27,6 +27,6 @@ Just a guy who modifies games, builds tools, and writes scripts.
 
 <div align="center">
 
-`STRØKE` // END OF LINE
+`strøke` // END OF LINE
 
 </div>
